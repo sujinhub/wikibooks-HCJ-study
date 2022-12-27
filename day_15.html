@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+      </head>
+      <body>
+        <input
+          type="button"
+          value="night"
+          onclick="
+          var target = document.querySelector('body');
+          if(this.value === 'night'){
+            target.style.backgroundColor = 'black';
+            target.style.color = 'white';
+            this.value = 'day';
+      
+            var lst = document.querySelectorAll('a');
+            var i = 0;
+            while(i < lst.length){
+              lst[i].style.color = 'powderblue';
+              i = i + 1;
+            }
+          } else {
+            target.style.backgroundColor = 'white';
+            target.style.color = 'black';
+            this.value = 'night';
+      
+            var lst = document.querySelectorAll('a');
+            var i = 0;
+            while(i < lst.length){
+              lst[i].style.color = 'blue';
+              i = i + 1;
+            }
+          }
+        "
+        />
+        <br />
+        <br />
+        <a href="day_01.html">This is for "day_01.html</a>
+        <br />
+        <a href="day_02.html">This is for "day_02.html</a>
+        <br />
+        <a href="day_03.html">This is for "day_03.html</a>
+        <br />
+        <br />
+        <div>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui id
+          ornare arcu odio ut. Habitant morbi tristique senectus et netus et
+          malesuada fames. Tempus egestas sed sed risus pretium. Neque viverra
+          justo nec ultrices. Quam lacus suspendisse faucibus interdum posuere.
+          Elit pellentesque habitant morbi tristique senectus et. Amet venenatis
+          urna cursus eget nunc. Sed arcu non odio euismod lacinia at quis.
+          Morbi tristique senectus et netus et malesuada fames.
+        </div>
+      </body>
+    </html>
+  </body>
+</html>
