@@ -1,6 +1,6 @@
 # HTML+CSS+JS 온라인 스터디 1기
-- 위키북스(https://cafe.naver.com/wikibookstudy)에서 진행하는 HCJ 온라인 스터디 1기 기록입니다.
-- 교재 : 생활코딩! HTML+CSS+자바스크립트(개정판)(https://wikibook.co.kr/html-css-js-rev/) <br/>
+- [위키북스]에서 진행하는 HCJ 온라인 스터디 1기 기록입니다. (https://cafe.naver.com/wikibookstudy)
+- 교재 : 생활코딩! HTML+CSS+자바스크립트(개정판) (https://wikibook.co.kr/html-css-js-rev/)
 - 강의 : 생활코딩 - 오픈튜토리얼스 (https://opentutorials.org/course/3083)
 
 <br/>
