@@ -4,8 +4,8 @@ https://cafe.naver.com/wikibookstudy
 
 <br/>
 
-|Day|Course|Details|
-|:----:|:---:|:---:|
+|Day|Course|Details|Remark|
+|:----:|:---:|:---:|:---:|
 |Day 1|HTML|Learning Basic HTML Tags|
 |Day 2|HTML|Creating A Simple Document|
 |Day 3|HTML|Linking From One Page To Another|
@@ -24,5 +24,5 @@ https://cafe.naver.com/wikibookstudy
 |Day 16|JavaScript|Fixing The Last Code With Functions|
 |Day 17|JavaScript|Understanding Objects, Properties, & Methods|
 |Day 18|JavaScript|Fixing The Last Code With Objects|
-|Day 19|JavaScript|Understanding Framework vs. Library|
-|Day 20|JavaScript|Understanding UI vs. API|
+|Day 19|JavaScript|Understanding Framework vs. Library|No Commit|
+|Day 20|JavaScript|Understanding UI vs. API|No Commit|
