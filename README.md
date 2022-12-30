@@ -1,6 +1,7 @@
-# wikibooks-HCJ-study
-위키북스 HCJ(HTML+CSS+JS) 스터디 1기 기록 <br/>
-https://cafe.naver.com/wikibookstudy
+# HTML+CSS+JS 온라인 스터디 1기
+- 위키북스(https://cafe.naver.com/wikibookstudy)에서 진행하는 HCJ 온라인 스터디 1기 기록입니다.
+- 교재 : 생활코딩! HTML+CSS+자바스크립트(개정판)(https://wikibook.co.kr/html-css-js-rev/) <br/>
+- 강의 : 생활코딩 - 오픈튜토리얼스 (https://opentutorials.org/course/3083)
 
 <br/>
 
@@ -10,7 +11,7 @@ https://cafe.naver.com/wikibookstudy
 |Day 2|HTML|Creating A Simple Document|
 |Day 3|HTML|Linking From One Page To Another|
 |Day 4|HTML|Hosting A Website On GitHub|
-|Day 5|HTML|Adding Disqus To A Website|
+|Day 5|HTML|Adding Videos & Disqus To A Website|
 |Day 6|CSS|Adding Color To Text|
 |Day 7|CSS|Understanding Selectors, Properties & Values|
 |Day 8|CSS|Understanding Attribute Selectors & Box Model|
