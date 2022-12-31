@@ -15,7 +15,7 @@
 |Day 6|CSS|Adding Color To Text|
 |Day 7|CSS|Understanding Selectors, Properties & Values|
 |Day 8|CSS|Understanding Attribute Selectors & Box Model|
-|Day 9|CSS|Understanding Media Query|
+|Day 9|CSS|Understanding Media Queries|
 |Day 10|CSS|Learning About How To Reuse CSS Codes|
 |Day 11|JavaScript|Introduction To JavaScript & alert() Method|
 |Day 12|JavaScript|Understanding JavaScript Data Types & Variables|
